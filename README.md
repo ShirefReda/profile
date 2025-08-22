@@ -13,7 +13,7 @@ A responsive, black and white, animated profile page with a space and stars styl
 
 ## Usage
 
-1. Download `https://github.com/ShirefReda/profile/archive/refs/tags/code.zip`
+1. Download `https://github.com/ShirefReda/profile/archive/refs/tags/code.zip` unzip the files 
 2. Replace `profile.png` with your own profile image (recommended size: 150×150 pixels)
 3. Edit the information in `index.html` to personalize your profile
 4. Update social media links with your own usernames/URLs
